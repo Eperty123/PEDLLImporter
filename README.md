@@ -6,5 +6,5 @@ The project requires .NET 4.7.2 in order to compile.
 
 # Credits
 Special thanks to:
-*PeNET (https://github.com/secana/PeNet) for the library
+* PeNET (https://github.com/secana/PeNet) for the library.
 * Iconarchive.com (https://iconarchive.com/) for the icon!
